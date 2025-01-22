@@ -6,7 +6,6 @@ An analytical system for evaluating in-game vehicle pricing and providing person
 
 This project implements a data-driven approach to:
 - Analyze reasonableness of in-game vehicle pricing
-- Reduce dimensionality using PCA and scaling
 - Provide vehicle recommendations using BallTree nearest neighbor search
 - Compare different ML models for price prediction
 
